@@ -1,1 +1,4 @@
-PWD 
+#!/bin/bash
+pwd
+chmode u+x file
+/n
