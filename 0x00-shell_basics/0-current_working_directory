@@ -1,4 +1,3 @@
 #!/bin/bash
-pwd
-chmode u+x file
-/n
+pwd chmode u+x file
+
