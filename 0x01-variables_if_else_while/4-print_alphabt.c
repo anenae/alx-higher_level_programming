@@ -9,8 +9,17 @@ int main(void)
 {
 	char c;
 
-	for (c = 'a'; c <= 'z'; ++c)
-		putchar(c);
+	c = 'a';
+	while (c <= 'z')
+	{
+		if ((c !=  'e') && (c != 'q'))
+		{
+			putchar(c);
+			++c;
+		}
+		else
+			++c;
+	}
 	putchar('\n');
 
 	return (0);
