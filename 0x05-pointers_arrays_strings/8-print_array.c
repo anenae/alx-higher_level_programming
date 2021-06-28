@@ -20,4 +20,3 @@ for (i = 0; i < n; i++)
 	}
 	printf("\n");
 }
-© 2021 GitHub, Inc.
