@@ -1,1 +1,1 @@
-**static libraries**
+**Digging deeper into pointers pointing pointers**
