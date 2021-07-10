@@ -1,1 +1,0 @@
-**Digging deeper into pointers pointing pointers**
