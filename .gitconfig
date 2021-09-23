@@ -3,3 +3,7 @@
 	email = anesurachel@gmail.com
 [push]
 	default = current
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
